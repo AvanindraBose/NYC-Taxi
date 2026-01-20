@@ -210,3 +210,8 @@ data/
 
 logs/
 *.log
+
+reports/
+plots/
+models/
+dvc-storage/

@@ -3,6 +3,7 @@ from zipfile import ZipFile
 from pathlib import Path
 from src.logger import create_log_path , CustomLogger
 
+
 log_file_path = create_log_path('Extract Dataset')
 
 # create the custom logger object

@@ -2,7 +2,7 @@ import joblib
 import sys
 import pandas as pd
 from yaml import safe_load
-from sklearn.ensemble import XGBRegressor
+from xgboost import XGBRegressor
 from pathlib import Path
 
 
